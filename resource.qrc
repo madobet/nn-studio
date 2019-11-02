@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/logo">
+        <file alias="loading">pic/poi.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file alias="neuronviewer">pic/humura.png</file>
+        <file alias="copy">pic/copy.png</file>
+        <file alias="cut">pic/cut.png</file>
+        <file alias="new">pic/new.png</file>
+        <file alias="open">pic/open.png</file>
+        <file alias="paste">pic/paste.png</file>
+        <file alias="save">pic/save.png</file>
+    </qresource>
+</RCC>
